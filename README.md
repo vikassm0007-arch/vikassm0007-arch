@@ -105,6 +105,6 @@ Tech: HTML, CSS, JavaScript
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: (Add your LinkedIn link)
-* 📧 Email: (Add your email)
+* 💼 LinkedIn: (https://www.linkedin.com/in/vikas-sm-5469013a1/)
+* 📧 Email: (vikassm0007@gmail.com)
 * 🧑‍💻 GitHub: https://github.com/vikassm0007-arch
