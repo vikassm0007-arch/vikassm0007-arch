@@ -1,16 +1,110 @@
-## Hi there 👋
+# Hi there 👋 I'm Vikas S Mirji
 
-<!--
-**vikassm0007-arch/vikassm0007-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pre-Final Year Student at **SGBIT**
+💻 Pursuing **B.E in Computer Science Engineering**
+🚀 Interested in **Software Development (SDE) & Development Roles**
+📚 Currently mastering **Core Data Structures and Algorithms in Java**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🌱 Currently learning **Data Structures & Algorithms in Java**
+* 💻 Passionate about building **scalable software and real-world applications**
+* 🔍 Interested in **Backend Development, System Design, and Problem Solving**
+* 👯 Open to collaborating on **Open Source & Development Projects**
+* ⚡ Fun fact: I enjoy solving coding problems and improving algorithmic thinking
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+* Java
+* Python
+* JavaScript
+* C
+* SQL
+
+### 🌐 Web Development
+
+* HTML
+* CSS
+* JavaScript
+* React (Learning)
+* Node.js (Basics)
+
+### ⚙️ Tools & Technologies
+
+* Git & GitHub
+* Linux
+* VS Code
+* IntelliJ IDEA
+* Postman
+
+### 📚 Core CS Concepts
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* DBMS
+* Operating Systems
+* Computer Networks
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 DSA in Java
+
+Collection of solved **Data Structures and Algorithms problems in Java**
+
+Tech: Java
+Focus: Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs
+
+---
+
+### 🔹 Full Stack Web App
+
+A web application demonstrating CRUD operations and backend APIs.
+
+Tech: HTML, CSS, JavaScript, Node.js
+
+---
+
+### 🔹 Portfolio Website
+
+Personal developer portfolio showcasing projects and skills.
+
+Tech: HTML, CSS, JavaScript
+
+---
+
+## 📊 GitHub Stats
+
+![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikassm0007-arch&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikassm0007-arch&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=vikassm0007-arch&theme=tokyonight)
+
+---
+
+## 🎯 Current Goals
+
+* Master **Data Structures & Algorithms**
+* Build **Full Stack Projects**
+* Contribute to **Open Source**
+* Prepare for **SDE roles**
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: (Add your LinkedIn link)
+* 📧 Email: (Add your email)
+* 🧑‍💻 GitHub: https://github.com/vikassm0007-arch
