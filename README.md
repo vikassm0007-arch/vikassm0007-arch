@@ -5,9 +5,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Pre-Final+Year+CSE+Student;Java+Developer;Data+Structures+Learner;Passionate+Programmer" />
 </p>
 
-🎓 Pre-Final Year Student at **SGBIT**
+🎓 Pre-Final Year Student at **SGBIT** 
+
 💻 Pursuing **B.E in Computer Science Engineering**
+
 🚀 Interested in **Software Development (SDE) & Development Roles**
+
 📚 Currently mastering **Core Data Structures and Algorithms in Java**
 
 ---
