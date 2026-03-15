@@ -116,3 +116,5 @@ Tech: HTML, CSS, JavaScript
 * 💼 LinkedIn: (https://www.linkedin.com/in/vikas-sm-5469013a1/)
 * 📧 Email: (vikassm0007@gmail.com)
 * 🧑‍💻 GitHub: https://github.com/vikassm0007-arch
+
+* 🚀 "Keep learning, keep coding, and keep growing."
