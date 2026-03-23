@@ -94,6 +94,17 @@ Tech: HTML, CSS, JavaScript
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikassm0007-arch&layout=compact&theme=tokyonight)
 
 ---
+## 🏆 Achievements & Coding Profiles
+
+* 🧩 Solving problems on **LeetCode & HackerRank**
+* 🏅 Consistently improving DSA skills
+
+<p>
+  <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/HackerRank-Active-green?style=for-the-badge&logo=hackerrank" />
+</p>
+
+---
 
 ## 🔥 Contribution Streak
 
