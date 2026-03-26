@@ -99,10 +99,6 @@ Tech: HTML, CSS, JavaScript
 * 🧩 Solving problems on **LeetCode & HackerRank**
 * 🏅 Consistently improving DSA skills
 
-<p>
-  <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/HackerRank-Active-green?style=for-the-badge&logo=hackerrank" />
-</p>
 
 ---
 
