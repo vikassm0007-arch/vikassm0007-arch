@@ -1,4 +1,6 @@
- I'm Vikas S Mirji
+<h1 align="center"><b>Vikas S Mirji</b></h1>
+
+
 <h3 align="center">Computer Science Engineering Student | Java & DSA Enthusiast</h3>
 
 <p align="center">
