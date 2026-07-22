@@ -6,9 +6,13 @@
 </p>
 📌 About Me
 Currently learning Data Structures & Algorithms in Java
+
 Passionate about building scalable software and real-world applications
+
 Interested in Backend Development, System Design, and Problem Solving
+
 Open to collaborating on Open Source & Development Projects
+
 Fun fact: I enjoy solving coding problems and improving algorithmic thinking
 
 🧠 My Focus Areas
