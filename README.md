@@ -6,13 +6,9 @@
 </p>
 📌 About Me
 Currently learning Data Structures & Algorithms in Java
-
 Passionate about building scalable software and real-world applications
-
 Interested in Backend Development, System Design, and Problem Solving
-
 Open to collaborating on Open Source & Development Projects
-
 Fun fact: I enjoy solving coding problems and improving algorithmic thinking
 
 🧠 My Focus Areas
@@ -34,7 +30,6 @@ Prepare for SDE roles
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
-
 
 🛠️ Languages & Tools
 <h3 align="center">Programming Languages</h3>
@@ -81,3 +76,4 @@ Prepare for SDE roles
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
+<p align="center"><a href="https://www.buymeacoffee.com/vikas s mirji" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
