@@ -36,37 +36,6 @@ Prepare for SDE roles
 </div>
 
 
-name: 3D City Builder
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  
-  workflow_dispatch:
-
-  push:
-    branches:
-      - master
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Generate 3D City
-    permissions:
-      contents: write 
-      
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
-          filename: profile-3d-city.svg
-          
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
 🛠️ Languages & Tools
 <h3 align="center">Programming Languages</h3>
 <p align="center">
