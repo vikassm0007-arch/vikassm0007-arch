@@ -104,14 +104,6 @@
 
 <h3>📊 Top Languages</h3>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassm0007-arch&layout=compact&langs_count=8&theme=dracula&hide_border=true"
-  alt="Top Languages"
-/>
-
-</td>
-</tr>
-</table>
 
 ![Top language](https://stats.pphat.top/languages?username=vikassm0007-arch)
 <br/>
