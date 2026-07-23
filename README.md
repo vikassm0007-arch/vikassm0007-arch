@@ -23,12 +23,7 @@
 
 ## 📊 GitHub Stats & Streak
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=vikassm0007-arch&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"
-    alt="GitHub Stats"
-  />
+<p align="center"> <a href="https://github.com/vikassm0007-arch"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vikassm0007-arch&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="vikassm0007-arch's GitHub Stats" /> </a>
 
   <img
     height="180em"
@@ -37,23 +32,8 @@
   />
 </p>
 
-## 💻 Most Used Languages
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassm0007-arch&layout=compact&langs_count=8&theme=dracula&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=vikassm0007-arch&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
 
 ## 📈 Contribution Graph
 
