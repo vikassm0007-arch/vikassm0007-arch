@@ -93,8 +93,7 @@
 </p>
 
 <p align="center">
-  <!-- Space Shooter Contribution Graph -->
-  <img src="game.gif" alt="My GitHub Space Shooter Graph" width="100%" />
+  <img src="game.gif" alt="My Real GitHub Contribution Space Shooter" />
 </p>
 
 <p align="center">
