@@ -24,13 +24,11 @@
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <a href="https://github.com/vikassm0007-arch">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=vikassm0007-arch&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"
-      alt="GitHub Stats"
-    />
-  </a>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=vikassm0007-arch&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"
+    alt="GitHub Stats"
+  />
 
   <img
     height="180em"
@@ -39,9 +37,10 @@
   />
 </p>
 
+## 💻 Most Used Languages
+
 <p align="center">
   <img
-    height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassm0007-arch&layout=compact&langs_count=8&theme=dracula&hide_border=true"
     alt="Top Languages"
   />
@@ -70,7 +69,6 @@
 <div align="center">
   <img src="./profile-3d-city.svg" width="100%" alt="3D Contribution Graph"/>
 </div>
-
 
 ## 🛠️ Languages & Tools
 
