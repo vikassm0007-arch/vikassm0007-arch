@@ -25,6 +25,7 @@
 
 <p align="center"> <a href="https://github.com/vikassm0007-arch"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vikassm0007-arch&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="vikassm0007-arch's GitHub Stats" /> </a>
 
+ <p align="center">
   <img
     height="180em"
     src="https://streak-stats.demolab.com?user=vikassm0007-arch&theme=dracula&hide_border=true"
