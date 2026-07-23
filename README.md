@@ -21,18 +21,54 @@
 * Prepare for **SDE roles**
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats & Streak
+
 <p align="center">
   <a href="https://github.com/vikassm0007-arch">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vikassm0007-arch&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="vikassm0007-arch's GitHub Stats" />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=vikassm0007-arch&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"
+      alt="GitHub Stats"
+    />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=vikassm0007-arch&theme=dracula&hide_border=true&cache_seconds=86400" alt="vikassm0007-arch's GitHub Streak" width="49%" />
+
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=vikassm0007-arch&theme=dracula&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=vikassm0007-arch&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vikas S Mirji's GitHub Trophies" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassm0007-arch&layout=compact&langs_count=8&theme=dracula&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=vikassm0007-arch&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
+    alt="GitHub Trophies"
+  />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vikassm0007-arch&theme=dracula&hide_border=true"
+    alt="Contribution Graph"
+  />
+</p>
+
+## 🌆 3D Contribution Graph
+
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+  <img src="./profile-3d-city.svg" width="100%" alt="3D Contribution Graph"/>
 </div>
 
 
