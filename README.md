@@ -121,7 +121,7 @@
   <a href="https://www.linkedin.com/in/vikas-s-mirji-5469013a1/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:vikassm0007@gmail.com">
+  <a href="vikassm0007@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
