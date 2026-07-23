@@ -92,16 +92,5 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="game.gif" alt="My Real GitHub Contribution Space Shooter" />
-</p>
-
-<p align="center">
-  <!-- Real-time Streak Counter -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" />
-  
-  <!-- Total Commits & Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
 
 
