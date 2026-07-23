@@ -45,11 +45,6 @@
   />
 </p>
 
-## 🌆 3D Contribution Graph
-
-<div align="center">
-  <img src="./profile-3d-city.svg" width="100%" alt="3D Contribution Graph"/>
-</div>
 
 ## 🛠️ Languages & Tools
 
