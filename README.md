@@ -93,7 +93,16 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <!-- Space Shooter Contribution Graph -->
+  <img src="game.gif" alt="My GitHub Space Shooter Graph" width="100%" />
+</p>
+
+<p align="center">
+  <!-- Real-time Streak Counter -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" />
+  
+  <!-- Total Commits & Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 
