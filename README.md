@@ -50,40 +50,54 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="55%">
 
-<h3 align="center">💻 Tech Stack</h3>
+<td align="center" valign="top">
 
-<h4 align="center">Programming Languages</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
-</p>
+### 💻 Programming Languages
 
-<h4 align="center">Backend</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
 
-<h4 align="center">Database</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-</p>
+</td>
 
-<h4 align="center">DevOps & Cloud</h4>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />
-</p>
+<td align="center" valign="top">
 
-<h4 align="center">Tools</h4>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-</p>
+### ⚙️ Backend
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+
+</td>
+
+<td align="center" valign="top">
+
+### 🗄️ Database
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+
+</td>
+
+<td align="center" valign="top">
+
+### ☁️ DevOps & Cloud
+
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
+
+</td>
+
+<td align="center" valign="top">
+
+### 🛠️ Tools
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/><br><br>
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="45"/>
+
+</td>
+
+</tr>
+</table>
 </td>
 
 <td valign="middle" width="45%" align="center">
