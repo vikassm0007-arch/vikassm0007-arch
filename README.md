@@ -28,7 +28,10 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vikassm0007-arch&theme=tokyonight)
+
+</p>
 
 ---
 
