@@ -21,12 +21,13 @@
 * Prepare for **SDE roles**
 
 
-## 📊 GitHub Stats & Streak
+## 📊 GitHub Stats 
 
 <p align="center"> <a href="https://github.com/vikassm0007-arch"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vikassm0007-arch&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="vikassm0007-arch's GitHub Stats" /> </a>
 
 ## 🔥 Contribution Streak
 
+<p align="center">
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vikassm0007-arch&theme=tokyonight)
 
 ---
