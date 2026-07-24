@@ -27,12 +27,10 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=vikassm0007-arch&theme=dracula&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=vikassm0007-arch&theme=dracula&hide_border=true"
     alt="GitHub Streak"
-    height="180"
   />
 </p>
-
 
 
 
