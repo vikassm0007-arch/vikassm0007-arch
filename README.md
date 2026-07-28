@@ -36,12 +36,8 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <a href="https://github.com/vikassm0007-arch">
-    <img src="https://streak-stats.demolab.com?user=vikassm0007-arch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikassm0007-arch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-
 ## 📈 Contribution Graph
 
 <p align="center">
