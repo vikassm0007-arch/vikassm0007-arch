@@ -35,7 +35,7 @@
 
 ## 🔥 Contribution Streak
 
-<p align="center">
+<p>
 
 <img src="https://streak-stats.demolab.com?user=vikassm0007-arch&theme=tokyonight&hide_border=true"/>
 
