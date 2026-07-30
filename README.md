@@ -35,10 +35,11 @@
 
 ## 🔥 Contribution Streak
 
-<p>
-
-<img src="https://streak-stats.demolab.com?user=vikassm0007-arch&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=vikassm0007-arch&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="GitHub Streak"
+  />
 </p>
 ## 📈 Contribution Graph
 
