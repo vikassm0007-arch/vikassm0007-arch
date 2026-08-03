@@ -35,7 +35,7 @@
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikassm0007-arch&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.vercel.app/?user=vikassm0007-arch&theme=tokyonight)
 
 ## 📈 Contribution Graph
 
