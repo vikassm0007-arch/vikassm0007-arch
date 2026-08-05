@@ -41,11 +41,10 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vikassm0007-arch&theme=dracula&hide_border=true"
-    alt="Contribution Graph"
+    src="https://raw.githubusercontent.com/vikassm0007-arch/vikassm0007-arch/output/github-contribution-grid-snake.svg"
+    alt="Snake Animation Contribution Graph"
   />
 </p>
-
 ## 🛠️ Languages & Tools
 
 <table align="center">
