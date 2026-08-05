@@ -41,8 +41,8 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/vikassm0007-arch/vikassm0007-arch/output/github-contribution-grid-snake.svg"
-    alt="Snake Animation Contribution Graph"
+    src="https://github-readme-activity-graph.readme.org.cn/graph?username=vikassm0007-arch&theme=dracula&hide_border=true"
+    alt="Contribution Graph"
   />
 </p>
 ## 🛠️ Languages & Tools
