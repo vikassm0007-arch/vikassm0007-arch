@@ -39,13 +39,7 @@
 
 📈 GitHub Contribution Graph
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikassm0007-arch&theme=tokyonight"
-    alt="GitHub Contribution Graph"
-    width="100%"
-  />
-</p>
+<p align="center">   <img     src="https://github-readme-activity-graph.vercel.app/graph?username=vikassm0007-arch&theme=dracula&hide_border=true"     alt="Contribution Graph"   /> </p>
 ## 🛠️ Languages & Tools
 
 <table align="center">
