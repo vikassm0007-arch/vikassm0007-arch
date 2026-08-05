@@ -37,7 +37,7 @@
 
 ![GitHub Streak](https://streak-stats.vercel.app/?user=vikassm0007-arch&theme=tokyonight)
 
-<h2 align="center">📈 GitHub Contribution Graph</h2>
+📈 GitHub Contribution Graph
 
 <p align="center">
   <img
