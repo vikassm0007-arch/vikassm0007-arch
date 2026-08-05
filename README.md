@@ -37,10 +37,14 @@
 
 ![GitHub Streak](https://streak-stats.vercel.app/?user=vikassm0007-arch&theme=tokyonight)
 
-## 📈 Contribution Graph
+<h2 align="center">📈 GitHub Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikassm0007-arch&theme=dracula" alt="GitHub Activity Graph" width="100%" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikassm0007-arch&theme=tokyonight"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 ## 🛠️ Languages & Tools
 
