@@ -41,8 +41,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.readme.org.cn/graph?username=vikassm0007-arch&theme=dracula&hide_border=true"
-    alt="Contribution Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vikassm0007-arch&theme=dracula&hide_border=true"
+    alt="Vikas S Mirji's GitHub Activity Graph"
   />
 </p>
 ## 🛠️ Languages & Tools
