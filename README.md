@@ -39,10 +39,13 @@
 
 ## 📈 Contribution Graph
 
+<h2 align="center">📊 GitHub Activity</h2>
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vikassm0007-arch&theme=dracula&hide_border=true"
-    alt="Vikas S Mirji's GitHub Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vikassm0007-arch&theme=dracula&hide_border=true&area=true&radius=10"
+    alt="GitHub Activity Graph"
+    width="100%"
   />
 </p>
 ## 🛠️ Languages & Tools
