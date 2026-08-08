@@ -5,6 +5,9 @@
     <img src="https://komarev.com/ghpvc/?username=vikassm0007-arch&label=Profile%20views&color=brightgreen&style=flat-square" alt="vikassm0007-arch's profile views" />
   </a>
 </p>
+
+---
+
 ## 📌 About Me
 *  Currently learning **Data Structures & Algorithms in Java**
 * Passionate about building **scalable software and real-world applications**
