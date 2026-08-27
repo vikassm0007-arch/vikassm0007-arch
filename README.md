@@ -50,6 +50,11 @@
 
 
 
+<table align="center">
+<tr>
+
+<td align="center" valign="top" width="20%">
+
 ### 💻 Frontend
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
