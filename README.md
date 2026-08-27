@@ -43,7 +43,7 @@
 
 
 
-<table align="center">
+<table>
 <tr>
 
 <td align="center" valign="top" width="20%">
