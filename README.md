@@ -38,11 +38,15 @@
 ## 🔥 Contribution Streak
 
 [![GitHub Streak](https://streak-stats.vercel.app/?user=vikassm0007-arch&theme=tokyonight)](https://git.io/streak-stats)
+---
 
-###📈 GitHub Contribution Graph
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikassm0007-arch&theme=github-dark" alt="GitHub Contribution Graph" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vikassm0007-arch&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=238636&area=true&hide_border=true"
+    width="100%"
+  />
 </p>
 
 
