@@ -50,10 +50,7 @@
 
 ---
 
-<table align="center">
-<tr>
 
-<td align="center" valign="top" width="20%">
 
 ### 💻 Frontend
 
