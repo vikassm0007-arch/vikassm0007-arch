@@ -41,12 +41,7 @@
 
 ###📈 GitHub Contribution Graph
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikassm0007-arch&theme=dracula&hide_border=true" alt="Contribution Graph" /> </p>
-
-<table align="center">
-<tr>
-
-<td align="center" valign="top" width="20%">
+[![Vikas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikassm0007-arch&theme=github-dark)](https://github.com/vikassm0007-arch)
 
 ---
 
