@@ -21,6 +21,50 @@
 * Build **Full Stack Projects**
 * Contribute to **Open Source**
 * Prepare for **SDE roles**
+---
+<h2 align="center">📂 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Multimodal Welfare Discovery</h3>
+      <p>An AI-driven platform designed to help users discover relevant welfare schemes while providing explainable recommendations and identifying potentially fraudulent applications.</p>
+      <br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI" />
+      <img src="https://img.shields.io/badge/Machine%20Learning-00599C?style=flat-square&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+      <img src="https://img.shields.io/badge/XAI-412991?style=flat-square&logo=pytorch&logoColor=white" alt="XAI" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ Digital Subsidy & Grant Platform</h3>
+      <p>A digital platform focused on simplifying subsidy and grant administration through intelligent workflows, automation, and AI-assisted processing.</p>
+      <br />
+      <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Web%20Dev-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Web Dev" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>♿ ACCESSAI — Adaptive Interface</h3>
+      <p>An AI-powered accessibility layer designed to transform complex government and scholarship forms into simpler, adaptive, multilingual user experiences.</p>
+      <br />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI" />
+      <img src="https://img.shields.io/badge/Gemini-8E44AD?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ ETH Risk Engine</h3>
+      <p>A high-performance quantitative risk management engine designed to evaluate systemic risk, collateral liquidation conditions, and smart contract protocol exposures on Ethereum.</p>
+      <br />
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/DeFi-FF007A?style=flat-square&logo=uniswap&logoColor=white" alt="DeFi" />
+    </td>
+  </tr>
+</table>
 
 
 ## 📊 GitHub Stats 
