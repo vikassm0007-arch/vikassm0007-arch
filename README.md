@@ -8,20 +8,26 @@
 
 ---
 
-## 📌 About Me
-*  Currently learning **Data Structures & Algorithms in Java**
-* Passionate about building **scalable software and real-world applications**
-*  Interested in **Backend Development, System Design, and Problem Solving**
-*  Open to collaborating on **Open Source & Development Projects**
-* Fun fact: I enjoy solving coding problems and improving algorithmic thinking
+# 📌 About Me
 
+* 🐍 Currently strengthening my skills in **Python** and **Data Structures & Algorithms**
+* 💻 Passionate about building **real-world and scalable applications**
+* ⚙️ Exploring **Backend Development, APIs, Automation, and Full Stack Development**
+* 🤖 Interested in applying Python to **AI, Machine Learning, and Data Analysis**
+* 🧠 Continuously improving my **problem-solving and algorithmic thinking**
+* 🤝 Open to collaborating on **Open Source and Development Projects**
 
 ## 🧠 My Focus Areas
-* Master **Data Structures & Algorithms**
-* Build **Full Stack Projects**
-* Contribute to **Open Source**
-* Prepare for **SDE roles**
----
+
+* 🐍 Master **Python Development**
+* 🧩 Improve **DSA & Problem Solving**
+* 🌐 Build **Backend & Full Stack Projects**
+* 🤖 Explore **AI/ML implementations with Python**
+* ⚙️ Create **automation tools and real-world applications**
+* 🚀 Prepare for **Software Development roles**
+
+> **Learn • Build • Solve • Improve 🚀**
+
 <h2 align="center">📂 Featured Projects</h2>
 
 <table>
