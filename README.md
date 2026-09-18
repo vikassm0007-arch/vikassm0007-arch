@@ -11,7 +11,7 @@
 # 📌 About Me
 
 * 🐍 Currently strengthening my skills in **Python** and **Data Structures & Algorithms**
-* 💻 Passionate about building **real-world and scalable applications**
+* 💻 Passionate about building real-world and scalable applications
 * ⚙️ Exploring **Backend Development, APIs, Automation, and Full Stack Development**
 * 🤖 Interested in applying Python to **AI, Machine Learning, and Data Analysis**
 * 🧠 Continuously improving my **problem-solving and algorithmic thinking**
